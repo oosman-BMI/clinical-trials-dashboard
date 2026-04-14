@@ -1,0 +1,75 @@
+# ============================================================
+# Twine Pulse — .gitignore
+# ============================================================
+# This file tells Git which files to NEVER commit.
+# Most importantly: credentials and secrets must NEVER be
+# committed to a repository. If they are, rotate them immediately.
+# ============================================================
+
+# --- CREDENTIALS (NEVER COMMIT THESE) ---
+.env
+*.env
+.env.local
+.env.production
+.env.staging
+secrets.json
+credentials.json
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+venv/
+.venv/
+env/
+pip-log.txt
+
+# --- Local database files (prototype only — use Databricks in production) ---
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite3
+
+# --- Logs ---
+*.log
+server.log
+logs/
+
+# --- Operating system files ---
+.DS_Store           # Mac
+Thumbs.db           # Windows
+desktop.ini         # Windows
+*.swp               # Vim swap files
+
+# --- IDE / Editor files ---
+.vscode/
+.idea/
+*.code-workspace
+*.sublime-project
+*.sublime-workspace
+
+# --- Docker ---
+.dockerignore
+docker-compose.override.yml
+
+# --- Node (if ever added) ---
+node_modules/
+npm-debug.log*
+
+# --- AWS ---
+.aws/credentials
+*.pem
+*.key
+
+# --- Temporary / build files ---
+*.tmp
+*.temp
+.cache/

@@ -1,0 +1,378 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+<!--
+   ______                            __
+  / ____/___  ____ ___  ____  __  __/ /____  _____
+ / /   / __ \/ __ `__ \/ __ \/ / / / __/ _ \/ ___/
+/ /___/ /_/ / / / / / / /_/ / /_/ / /_/  __/ /
+\____/\____/_/ /_/ /_/ .___/\__,_/\__/\___/_/
+                    /_/
+        Created with Perplexity Computer
+        https://www.perplexity.ai/computer
+-->
+
+<!-- Perplexity Computer Attribution — SEO Meta Tags -->
+<meta name="generator" content="Perplexity Computer">
+<meta name="author" content="Perplexity Computer">
+<meta property="og:see_also" content="https://www.perplexity.ai/computer">
+<link rel="author" href="https://www.perplexity.ai/computer">
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Twine Pulse — Pharmaceutical Intelligence Dashboard</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script src="https://unpkg.com/lucide@latest/dist/umd/lucide.js"></script>
+<link rel="stylesheet" href="./style.css">
+</head>
+<body>
+
+<div class="dashboard">
+  <!-- SIDEBAR -->
+  <aside class="sidebar" id="sidebar">
+    <div class="sidebar-logo">
+      <svg width="32" height="32" viewBox="0 0 32 32" fill="none" aria-label="Twine Pulse logo">
+        <path d="M6 22 C10 10, 14 26, 18 14 S26 18, 26 10" stroke="var(--color-primary)" stroke-width="2.5" stroke-linecap="round" fill="none" opacity="0.9"/>
+        <path d="M6 20 C10 8, 14 24, 18 12 S26 16, 26 8" stroke="var(--color-primary)" stroke-width="1.5" stroke-linecap="round" fill="none" opacity="0.4"/>
+        <circle cx="6" cy="22" r="2.5" fill="var(--color-primary)"/>
+        <circle cx="18" cy="14" r="2.5" fill="var(--color-primary)" opacity="0.8"/>
+        <circle cx="26" cy="10" r="2.5" fill="var(--color-primary)"/>
+      </svg>
+      <span class="sidebar-brand">Twine Pulse</span>
+    </div>
+
+    <nav class="sidebar-nav" role="navigation" aria-label="Main navigation">
+      <button class="nav-item active" data-view="fda-approvals" aria-current="page">
+        <i data-lucide="shield-check" class="nav-icon"></i>
+        <span class="nav-label">FDA Approvals</span>
+      </button>
+      <button class="nav-item" data-view="pipeline">
+        <i data-lucide="flask-conical" class="nav-icon"></i>
+        <span class="nav-label">Pipeline Tracker</span>
+      </button>
+      <button class="nav-item" data-view="sentiment">
+        <i data-lucide="trending-up" class="nav-icon"></i>
+        <span class="nav-label">Market Sentiment</span>
+      </button>
+      <button class="nav-item" data-view="stakeholders">
+        <i data-lucide="users" class="nav-icon"></i>
+        <span class="nav-label">Key Stakeholders</span>
+      </button>
+      <button class="nav-item" data-view="connection-map">
+        <i data-lucide="git-merge" class="nav-icon"></i>
+        <span class="nav-label">Connection Map</span>
+      </button>
+      <button class="nav-item" data-view="company-deep-dives">
+        <i data-lucide="building-2" class="nav-icon"></i>
+        <span class="nav-label">Company Deep Dives</span>
+      </button>
+      <button class="sidebar-toggle" id="sidebarToggle" aria-label="Collapse sidebar">
+        <i data-lucide="panel-left-close" class="sidebar-toggle-collapse sidebar-toggle-icon nav-icon"></i>
+        <i data-lucide="panel-left-open" class="sidebar-toggle-expand sidebar-toggle-icon nav-icon"></i>
+        <span class="nav-label">Collapse</span>
+      </button>
+    </nav>
+    <div class="sidebar-footer">
+      <a href="https://www.perplexity.ai/computer" target="_blank" rel="noopener noreferrer" class="sidebar-attribution">
+        <i data-lucide="sparkles" style="width:14px;height:14px;"></i>
+        <span>Perplexity Computer</span>
+      </a>
+    </div>
+  </aside>
+
+  <!-- HEADER -->
+  <header class="header">
+    <div class="header-left">
+      <button class="mobile-menu-btn" id="mobileMenuBtn" aria-label="Toggle menu">
+        <i data-lucide="menu"></i>
+      </button>
+      <h1 class="header-title" id="headerTitle">FDA Approvals</h1>
+      <span class="header-subtitle" id="headerSubtitle">Novel Drug Approvals 2020–2026</span>
+    </div>
+    <div class="header-right">
+      <span class="header-timestamp" id="headerTimestamp">
+        <span class="live-dot"></span>
+        <span id="liveTimestamp">Updated Mar 8, 2026 7:00 PM</span>
+      </span>
+      <button class="theme-toggle" data-theme-toggle aria-label="Switch to light mode">
+        <i data-lucide="sun" class="theme-icon-light"></i>
+        <i data-lucide="moon" class="theme-icon-dark"></i>
+      </button>
+    </div>
+  </header>
+
+  <!-- MAIN CONTENT -->
+  <main class="main" id="mainContent">
+
+    <!-- VIEW 1: FDA APPROVALS -->
+    <div class="view active" id="view-fda-approvals">
+      <div class="kpi-row" id="fdaKpiRow"></div>
+      <div class="chart-grid-2">
+        <div class="chart-card">
+          <div class="chart-header">
+            <h3 class="chart-title">Approvals by Year</h3>
+            <span class="chart-subtitle">Stacked by therapeutic area</span>
+          </div>
+          <div class="chart-body"><canvas id="chartApprovalsYear"></canvas></div>
+        </div>
+        <div class="chart-card">
+          <div class="chart-header">
+            <h3 class="chart-title">Therapeutic Area Breakdown</h3>
+            <span class="chart-subtitle">Aggregate 2020–2026</span>
+          </div>
+          <div class="chart-body"><canvas id="chartTherapeuticArea"></canvas></div>
+        </div>
+      </div>
+      <div class="chart-card" style="margin-top:var(--space-4);">
+        <div class="chart-header">
+          <h3 class="chart-title">Approvals by Designation Type</h3>
+          <span class="chart-subtitle">Across all years</span>
+        </div>
+        <div class="chart-body chart-body-short"><canvas id="chartDesignations"></canvas></div>
+      </div>
+      <div class="table-card" style="margin-top:var(--space-4);">
+        <div class="table-header">
+          <h3 class="chart-title">All FDA Approvals</h3>
+          <div class="table-filters" id="fdaFilters">
+            <input type="text" class="filter-input" id="fdaSearch" placeholder="Search drugs...">
+            <select class="filter-select" id="fdaYearFilter"><option value="">All Years</option></select>
+            <select class="filter-select" id="fdaAreaFilter"><option value="">All Areas</option></select>
+            <select class="filter-select" id="fdaDesignFilter"><option value="">All Designations</option></select>
+          </div>
+        </div>
+        <div class="table-wrapper">
+          <table class="data-table" id="fdaTable">
+            <thead>
+              <tr>
+                <th data-sort="year">Year <i data-lucide="arrow-up-down" class="sort-icon"></i></th>
+                <th data-sort="brand_name">Brand Name <i data-lucide="arrow-up-down" class="sort-icon"></i></th>
+                <th data-sort="generic_name">Generic Name <i data-lucide="arrow-up-down" class="sort-icon"></i></th>
+                <th data-sort="company">Company <i data-lucide="arrow-up-down" class="sort-icon"></i></th>
+                <th data-sort="therapeutic_area">Therapeutic Area <i data-lucide="arrow-up-down" class="sort-icon"></i></th>
+                <th>Designations</th>
+                <th>Description</th>
+              </tr>
+            </thead>
+            <tbody id="fdaTableBody"></tbody>
+          </table>
+        </div>
+        <div class="table-footer" id="fdaTableFooter"></div>
+      </div>
+    </div>
+
+    <!-- VIEW 2: PIPELINE TRACKER -->
+    <div class="view" id="view-pipeline">
+      <div class="pipeline-year-filter" id="pipelineYearFilter"></div>
+      <div class="kpi-row" id="pipelineKpiRow"></div>
+      <div class="pipeline-filters" id="pipelineFilters">
+        <select class="filter-select" id="pipelineAreaFilter"><option value="">All Areas</option></select>
+        <select class="filter-select" id="pipelinePhaseFilter"><option value="">All Phases</option></select>
+        <select class="filter-select" id="pipelineSentimentFilter"><option value="">All Sentiment</option></select>
+      </div>
+      <div class="chart-card" style="margin-bottom:var(--space-4);">
+        <div class="chart-header">
+          <h3 class="chart-title">Pipeline Decision Timeline</h3>
+          <span class="chart-subtitle">Expected PDUFA dates and review decisions</span>
+        </div>
+        <div class="chart-body" style="min-height:360px;"><canvas id="chartTimeline"></canvas></div>
+      </div>
+      <div class="pipeline-grid" id="pipelineGrid"></div>
+    </div>
+
+    <!-- VIEW 3: MARKET SENTIMENT -->
+    <div class="view" id="view-sentiment">
+      <div class="sentiment-summary" id="sentimentSummary"></div>
+      <div class="chart-grid-2" style="margin-top:var(--space-4);">
+        <div class="chart-card">
+          <div class="chart-header">
+            <h3 class="chart-title">Pipeline Sentiment Distribution</h3>
+            <span class="chart-subtitle">Across 29 pipeline drugs</span>
+          </div>
+          <div class="chart-body"><canvas id="chartSentiment"></canvas></div>
+        </div>
+        <div class="chart-card">
+          <div class="chart-header">
+            <h3 class="chart-title">Sentiment by Therapeutic Area</h3>
+            <span class="chart-subtitle">Drug count per area and sentiment</span>
+          </div>
+          <div class="chart-body"><canvas id="chartSentimentArea"></canvas></div>
+        </div>
+      </div>
+      <div class="policy-section" id="policySection"></div>
+    </div>
+
+    <!-- VIEW 4: STAKEHOLDERS -->
+    <div class="view" id="view-stakeholders">
+      <div class="stakeholder-filters" id="stakeholderFilters"></div>
+      <div class="stakeholder-grid" id="stakeholderGrid"></div>
+    </div>
+
+    <!-- VIEW 6: CONNECTION MAP -->
+    <div class="view" id="view-connection-map">
+      <div class="kpi-row" id="cmKpiRow"></div>
+      <div class="cm-filters" id="cmFilters"></div>
+      <div class="cm-container">
+        <div class="cm-legend" id="cmLegend"></div>
+        <div class="cm-graph-wrapper" id="cmGraphWrapper">
+          <svg class="cm-svg" id="cmSvg"></svg>
+        </div>
+      </div>
+      <div class="cm-tooltip" id="cmTooltip"></div>
+    </div>
+
+    <!-- VIEW 7: COMPANY DEEP DIVES -->
+    <div class="view" id="view-company-deep-dives">
+      <div class="cdd-toolbar" id="cddToolbar"></div>
+      <div class="cdd-grid" id="cddGrid"></div>
+    </div>
+
+    <!-- VIEW 5: COMPANY DRILL-DOWN -->
+    <div class="view" id="view-company-detail">
+      <!-- Header bar -->
+      <div class="cd-header-bar">
+        <button class="cd-back-btn" id="cdBackBtn" aria-label="Go back">
+          <i data-lucide="arrow-left" style="width:18px;height:18px;"></i>
+          <span>Back</span>
+        </button>
+        <div class="cd-header-info">
+          <h2 class="cd-company-name" id="cdCompanyName"></h2>
+          <span class="badge badge-primary cd-ticker-badge" id="cdTickerBadge"></span>
+        </div>
+        <div class="cd-header-price" id="cdHeaderPrice"></div>
+      </div>
+
+      <!-- Section 1: Company Overview -->
+      <section class="cd-section">
+        <h3 class="cd-section-title"><i data-lucide="building-2" style="width:18px;height:18px;"></i> Company Overview</h3>
+        <div class="cd-overview-grid">
+          <div class="cd-overview-left" id="cdOverviewLeft"></div>
+          <div class="cd-overview-right" id="cdOverviewRight"></div>
+        </div>
+      </section>
+
+      <!-- Section 2: Products -->
+      <section class="cd-section">
+        <h3 class="cd-section-title"><i data-lucide="pill" style="width:18px;height:18px;"></i> Products</h3>
+        <div class="cd-products-grid">
+          <div class="cd-products-col">
+            <h4 class="cd-products-col-title">Approved Products</h4>
+            <div id="cdApprovedProducts"></div>
+          </div>
+          <div class="cd-products-col">
+            <h4 class="cd-products-col-title">Pipeline Drugs</h4>
+            <div id="cdPipelineDrugs"></div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Section 3: Leadership -->
+      <section class="cd-section">
+        <h3 class="cd-section-title"><i data-lucide="users" style="width:18px;height:18px;"></i> Leadership &amp; Contacts</h3>
+        <div class="cd-leadership-grid" id="cdLeadership"></div>
+      </section>
+
+      <!-- Section 3.5: Board of Directors & Extended Leadership -->
+      <section class="cd-section" id="cdExtLeadershipSection">
+        <h3 class="cd-section-title">
+          <i data-lucide="crown" style="width:18px;height:18px;"></i>
+          Board of Directors &amp; Extended Leadership
+          <span class="badge badge-indigo" id="cdExtLeaderCount"></span>
+        </h3>
+        <div class="cd-ext-subsection" id="cdBoardSubsection">
+          <h4 class="cd-ext-subsection-title"><i data-lucide="landmark" style="width:14px;height:14px;"></i> Board of Directors</h4>
+          <div class="cd-ext-grid" id="cdBoardGrid"></div>
+        </div>
+        <div class="cd-ext-subsection" id="cdExtendedSubsection">
+          <h4 class="cd-ext-subsection-title"><i data-lucide="briefcase" style="width:14px;height:14px;"></i> Extended Leadership</h4>
+          <div class="cd-ext-grid" id="cdExtLeaderGrid"></div>
+        </div>
+      </section>
+
+      <!-- Section 4: Blue Matter Connections -->
+      <section class="cd-section" id="cdBmSection">
+        <h3 class="cd-section-title">
+          <i data-lucide="link-2" style="width:18px;height:18px;"></i>
+          Blue Matter Consulting Connections
+          <span class="badge badge-primary" id="cdBmCount"></span>
+        </h3>
+        <div class="cd-bm-grid" id="cdBmGrid"></div>
+      </section>
+
+      <!-- Section 4.5: Notes -->
+      <section class="cd-section" id="cdNotesSection">
+        <div class="cd-notes-header">
+          <h3 class="cd-section-title"><i data-lucide="sticky-note" style="width:18px;height:18px;"></i> Notes</h3>
+          <button class="cd-notes-add-btn" id="cdAddNoteBtn">
+            <i data-lucide="plus" style="width:14px;height:14px;"></i> Add Note
+          </button>
+        </div>
+        <div id="cdNotesAddForm" class="cd-notes-add-form" style="display:none;">
+          <textarea class="cd-notes-textarea" id="cdNewNoteText" placeholder="Write a note..."></textarea>
+          <div class="cd-notes-form-actions">
+            <button class="cd-notes-save-btn" id="cdNewNoteSave">Save</button>
+            <button class="cd-notes-cancel-btn" id="cdNewNoteCancel">Cancel</button>
+          </div>
+        </div>
+        <div id="cdNotesList" class="cd-notes-list"></div>
+      </section>
+
+      <!-- Section 4.75: Edit History -->
+      <section class="cd-section" id="cdEditHistorySection">
+        <h3 class="cd-section-title"><i data-lucide="history" style="width:18px;height:18px;"></i> Edit History</h3>
+        <div id="cdEditHistory" class="cd-edit-history-list"></div>
+      </section>
+
+      <!-- Section 5: Stock Performance -->
+      <section class="cd-section">
+        <h3 class="cd-section-title"><i data-lucide="line-chart" style="width:18px;height:18px;"></i> Stock Performance</h3>
+        <div class="cd-stock-kpis" id="cdStockKpis"></div>
+        <div class="chart-card" style="margin-top:var(--space-4);">
+          <div class="chart-header">
+            <h3 class="chart-title">13-Month Price History</h3>
+            <span class="chart-subtitle" id="cdChartSubtitle"></span>
+          </div>
+          <div class="chart-body"><canvas id="cdStockChart"></canvas></div>
+        </div>
+      </section>
+    </div>
+
+  </main>
+</div>
+
+<!-- Mobile overlay -->
+<div class="sidebar-overlay" id="sidebarOverlay"></div>
+
+<!-- Chat Panel -->
+<div class="chat-toggle" id="chatToggle" aria-label="Open chat">
+  <i data-lucide="message-circle" style="width:24px;height:24px;"></i>
+</div>
+<div class="chat-panel" id="chatPanel">
+  <div class="chat-panel-header">
+    <div class="chat-panel-title">
+      <i data-lucide="sparkles" style="width:16px;height:16px;"></i>
+      <span>Twine Pulse AI</span>
+    </div>
+    <div class="chat-panel-actions">
+      <button class="chat-header-btn" id="chatClearBtn" aria-label="Clear chat">
+        <i data-lucide="trash-2" style="width:16px;height:16px;"></i>
+      </button>
+      <button class="chat-header-btn" id="chatCloseBtn" aria-label="Close chat">
+        <i data-lucide="x" style="width:16px;height:16px;"></i>
+      </button>
+    </div>
+  </div>
+  <div class="chat-messages" id="chatMessages"></div>
+  <div class="chat-input-area">
+    <input type="text" class="chat-input" id="chatInput" placeholder="Ask about any pharma company..." autocomplete="off">
+    <button class="chat-send-btn" id="chatSendBtn" aria-label="Send message">
+      <i data-lucide="send" style="width:16px;height:16px;"></i>
+    </button>
+  </div>
+</div>
+
+<script src="./app.js"></script>
+</body>
+</html>

@@ -1,0 +1,333 @@
+=== TWINE PULSE DATABASE CONTEXT ===
+Data as of: March 2026
+Companies tracked: 25
+Pipeline drugs: 3
+
+## Praxis Precision Medicines (PRAX)
+Summary: Praxis Precision Medicines is a clinical-stage biopharmaceutical company translating genetic insights into therapies for CNS disorders characterized by neuronal excitation-inhibition imbalance, using 
+HQ: Boston, MA Praxis Website | Founded: 2015 MarketWatch | Employees: ~168 WSJ
+Stock: $310.71 | MCap: $6568919897 | P/E: -23.07 | 52wk: $26.7-$356.0
+Approved Products: None (clinical-stage company with no marketed products) MarketBeat FDA Tracker
+  Pipeline: Ulixacaltamide | Phase 3 (NDA filed February 2026) | Essential Tremor (most common movement disorder; ~10 million US patients) | FDA: ~Q4 2026 / Early 2027 (NDA submitted mid-Feb 2026; standard review ~12 months) | Sentiment: Positive
+  CEO: Marcio Souza Praxis Website | LinkedIn: https://www.linkedin.com/in/marcio-souza-2b02837
+  CFO: Tim Kelly Praxis Website | LinkedIn: https://www.linkedin.com/in/tim-kelly-02481
+  CSO: Steven Petrou | LinkedIn: https://www.linkedin.com/in/steven-petrou-3a84885
+  OTHER: Megan Sniecinski | LinkedIn: 
+
+## Novo Nordisk (NVO)
+Summary: Novo Nordisk is a leading global healthcare company founded in 1923, specializing in treatments for diabetes, obesity, and other serious chronic diseases. Headquartered in Bagsværd, Denmark, the compa
+HQ: Bagsværd, Denmark Novo Nordisk | Founded: 1923 Novo Nordisk | Employees: ~78,000 Novo Nordisk in brief
+Stock: $38.58 | MCap: $171482726385 | P/E: 10.78 | 52wk: $35.85-$82.57
+Approved Products: Ozempic (semaglutide) (2017) - Type 2 diabetes; Wegovy (semaglutide) (2021) - Obesity/weight management; Rybelsus (semaglutide oral) (2019) - Type 2 diabetes; Victoza (liraglutide) (2010) - Type 2 dia
+  Pipeline: CagriSema (cagrilintide + semaglutide) | Phase 3 (NDA submitted Dec 2025) | Obesity and Type 2 Diabetes | FDA: Late 2026 (FDA submission Dec 2025; decision anticipated H2 2026) | Sentiment: Mixed
+  CEO: Maziar Mike Doustdar | LinkedIn: https://www.linkedin.com/in/doustdar
+  CFO: Karsten Munk Knudsen | LinkedIn: https://www.linkedin.com/in/karstenmunkknudsen
+  CSO: Martin Holst Lange | LinkedIn: https://www.linkedin.com/in/martin-holst-lange-21662612
+  OTHER: David Moore | LinkedIn: 
+  BM Connection: Milena Sullivan (Partner) - Former employee at Bristol-Myers Squibb (Associate Director, US Federal Policy, 
+  BM Connection: D Erica Pascual (Associate Principal) - Former client relationship manager: clients at Hall & Partners included Eli Lill
+  BM Connection: Minsu Kim (Senior Consultant) - Former intern at Novo Nordisk (Market Access Strategic Execution, 2019); J&J men
+  BM Connection: Alejandro Zuniga (Former Manager at Blue Matter (now at Novo Nordisk)) - Moved FROM Blue Matter TO Novo Nordisk (February 2024); previously contractor at
+
+## Replimune (REPL)
+Summary: Replimune Group, Inc. is a clinical-stage biotechnology company developing novel oncolytic immunotherapies based on a proprietary RPx platform using an engineered HSV-1 backbone to maximize immunogeni
+HQ: Woburn, Massachusetts CB Insights | Founded: 2015 CB Insights | Employees: Approximately 479 as of March 2025 Stock Analysis
+Stock: $8.07 | MCap: $666360882 | P/E: -2.05 | 52wk: $2.68-$13.24
+Approved Products: None - Replimune is a clinical-stage company with no approved or marketed products OncLive
+  Pipeline: Vusolimogene oderparepvec (RP1) | Phase 1/2 (resubmitted BLA; seeking accelerated approval) | Advanced PD-1–refractory melanoma (in combination with nivolumab) | FDA: April 10, 2026 (PDUFA date; resubmission after July 2025 CRL) | Sentiment: Mixed
+  CEO: Sushil Patel MarketScreener | LinkedIn: https://www.linkedin.com/in/sushil-patel1
+  CFO: Emily Hill Fintool | LinkedIn: https://www.linkedin.com/in/emily-hill-3b03876
+  CSO: Konstantinos Xynos | LinkedIn: https://www.linkedin.com/in/konstantinos-xynos-28048a28
+  OTHER: Christopher Sarchi | LinkedIn: 
+
+## Celcuity (CELC)
+Summary: Celcuity Inc. is a clinical-stage biotechnology company developing targeted therapies that inhibit the PI3K/AKT/mTOR (PAM) pathway for solid tumors including breast and prostate cancers. Celcuity webs
+HQ: 16305 36th Avenue North, Minneapolis, MN 55446 Celcuity website | Founded: 2011 SalesTools AI | Employees: 51-200 ZoomInfo
+Stock: $115.0 | MCap: $5321194785 | P/E: -31.25 | 52wk: $7.58-$120.31
+Approved Products: None (clinical-stage company with no approved products) Celcuity pipeline; MarketBeat
+  Pipeline: Gedatolisib | Phase 3 (NDA under FDA review) | HR+/HER2- PIK3CA wild-type advanced breast cancer (post-CDK4/6 inhibitor failure | FDA: July 17, 2026 (PDUFA date; Priority Review) | Sentiment: Positive
+  CEO: Brian Sullivan Celcuity website | LinkedIn: https://www.linkedin.com/in/brian-sullivan-6202621
+  CFO: Vicky Hahne Celcuity website | LinkedIn: https://www.linkedin.com/in/vicky-hahne-04406a63
+  CSO: Lance Laing Celcuity website | LinkedIn: 
+  OTHER: Igor Gorbatchevsky Celcuity website | LinkedIn: 
+
+## Gilead Sciences (GILD)
+Summary: Gilead Sciences is an American biopharmaceutical company focused on researching and developing antiviral drugs for HIV/AIDS, hepatitis B, hepatitis C, influenza, COVID-19, oncology, and inflammation. 
+HQ: Foster City, California Gilead Sciences Company Overview | Founded: 1987 Wikipedia | Employees: ~17,000 Gilead.com
+Stock: $143.96 | MCap: $178714823200 | P/E: 17.66 | 52wk: $93.37-$157.29
+Approved Products: Biktarvy (2018) - HIV; Descovy (2016) - HIV PrEP; Veklury/Remdesivir (2020) - COVID-19; Epclusa (2016) - Hepatitis C; Trodelvy (2020) - Triple-negative breast cancer; Yescarta (2017) - Lymphoma Gilead
+  Pipeline: Anitocabtagene autoleucel (anito-cel) | Phase 2 (Pivotal iMMagine-1; BLA accepted by FDA) | Relapsed or Refractory Multiple Myeloma (4th-line; earlier lines under study) | FDA: December 23, 2026 (PDUFA date) | Sentiment: Positive
+  CEO: Daniel O'Day Gilead Leadership | LinkedIn: https://www.linkedin.com/in/gilead-daniel-o-day
+  CFO: Andrew Dickinson Gilead Leadership | LinkedIn: https://www.linkedin.com/in/andrew-dickinson-0547a190
+  CSO: Dietmar Berger | LinkedIn: https://www.linkedin.com/in/dietmar-berger-5927235
+  OTHER: Flavius Martin | LinkedIn: https://www.linkedin.com/in/flaviusmartin
+  BM Connection: Nikhil Bhat (Partner) - Former employee at Gilead Sciences (Associate Director, Business Analytics, 2013
+  BM Connection: Abhishek Khatri (Principal) - Former employee at Gilead Sciences (12+ years, multiple Director roles in Commer
+  BM Connection: Alejandro Zuniga (Former Manager at Blue Matter (now at Novo Nordisk)) - Moved FROM Blue Matter TO Novo Nordisk (February 2024); previously contractor at
+
+## GSK (GSK)
+Summary: GSK plc is a global biopharma company focused on developing vaccines and specialty medicines in respiratory/immunology/inflammation, oncology, HIV, and infectious diseases. GSK official
+HQ: GSK House, Brentford, London, UK (moved to central London in 2024) | Founded: 2000 (merger of Glaxo Wellcome and SmithKline Beecham) | Employees: ~67,000
+Stock: $54.51 | MCap: $109307565325 | P/E: 14.69 | 52wk: $32.38-$61.7
+Approved Products: Shingrix (2017) - Shingles prevention; Arexvy (2023) - RSV in older adults; Dovato (2019) - HIV; Nucala (2015) - Severe eosinophilic asthma; Trelegy Ellipta (2017) - COPD/Asthma
+  Pipeline: Linerixibat (GSK2330672) | Phase 3 (NDA under FDA review) | Cholestatic pruritus (debilitating itch) in Primary Biliary Cholangitis (PBC) | FDA: March 24, 2026 (PDUFA date; Orphan Drug designation) | Sentiment: Positive
+  CEO: Luke Miels | LinkedIn: https://www.linkedin.com/in/luke-miels
+  CFO: Julie Brown | LinkedIn: https://www.linkedin.com/in/julie-brown-4492579
+  CSO: Tony Wood | LinkedIn: https://www.linkedin.com/in/dr-tony-wood
+  OTHER: Deborah Waterhouse | LinkedIn: 
+  BM Connection: Emily Hua (President and Co-Founder) - Former employee at GlaxoSmithKline (Research Analyst)
+  BM Connection: Pankaj Oza (Managing Partner) - Former employee at GSK (UK Commercial) and Bristol-Myers Squibb (UK/European Mar
+  BM Connection: Kathryn Acheson (Manager) - Former employee at GSK (Future Leaders Programme, Consumer Healthcare R&D)
+  BM Connection: James Eddy (Former Blue Matter network contact (at AstraZeneca)) - Current Director at AstraZeneca (Oncology R&D Strategy); appeared in BM professi
+
+## Ascendis Pharma (ASND)
+Summary: Ascendis Pharma is a global biopharmaceutical company applying its innovative TransCon technology platform to develop best-in-class therapies primarily in endocrinology rare diseases and oncology, foc
+HQ: Copenhagen (Hellerup), Denmark Ascendis Pharma | Founded: 2007 | Employees: ~1,189 (as of Dec 2025) StockAnalysis
+Stock: $240.65 | MCap: $14771172083 | P/E: -54.32 | 52wk: $124.06-$248.6
+Approved Products: SKYTROFA (lonapegsomatropin) (2021) - Pediatric Growth Hormone Deficiency; YORVIPATH (palopegteriparatide) (~2023) - Hypoparathyroidism; YUVIWEL (navepegritide) (2026) - Achondroplasia Ascendis Pharma
+  Pipeline: Navepegritide alfa (TransCon CNP) | Phase 3 (BLA approved Feb 28, 2026) | Achondroplasia (most common form of short-limb dwarfism in children) | FDA: APPROVED February 28, 2026 (first once-weekly CNP treatment for achondroplasia) | Sentiment: Positive
+  CEO: Jan Møller Mikkelsen | LinkedIn: https://www.linkedin.com/in/jan-m%C3%B8ller-mikkelsen-6a1237187
+  CFO: Scott Smith | LinkedIn: 
+  CSO: Kennett Sprogøe | LinkedIn: https://www.linkedin.com/in/kennett-sprog%C3%B8e-712811
+  OTHER: Aimee D. Shu | LinkedIn: 
+
+## argenx (ARGX)
+Summary: argenx SE is a commercial-stage global biopharma company focused on developing differentiated antibody therapies for severe autoimmune diseases using its Immunology Innovation Program (IIP). argenx An
+HQ: Amsterdam, the Netherlands (registered office: Laarderhoogtweg 25, 1101 EB Amsterdam; operations in Zwijnaarde, Belgium and Boston, US) argenx Annual Report 2024 | Founded: 2008 | Employees: ~1,600 (as of Dec 2024) argenx Annual Report 2024
+Stock: $717.8 | MCap: $44419904520 | P/E: 37.17 | 52wk: $510.06-$934.62
+Approved Products: VYVGART (efgartigimod) (2021) - generalized myasthenia gravis (gMG); VYVGART (2023/2024) - chronic inflammatory demyelinating polyneuropathy (CIDP); VYVGART Hytrulo (SC) (2023+) - gMG and CIDP FDA; ar
+  Pipeline: Efgartigimod alfa (Vyvgart) — seronegative gMG indication | Phase 3 (sBLA under FDA review; Priority Review) | AChR-Ab seronegative generalized Myasthenia Gravis (gMG) — MuSK+, LRP4+, triple  | FDA: May 10, 2026 (PDUFA date; Priority Review) | Sentiment: Positive
+  CEO: Karen Massey (incoming CEO effective May 2026); currently Tim Van Hauwermeiren argenx News | LinkedIn: https://www.linkedin.com/in/tim-van-hauwermeiren-476a3521
+  CFO: Karl Gubitz | LinkedIn: https://www.linkedin.com/in/karl-g-7713166
+  CSO: Peter Ulrichts | LinkedIn: https://www.linkedin.com/in/peterulrichts
+  OTHER: Luc Truyen | LinkedIn: 
+
+## Achieve Life Sciences (ACHV)
+Summary: Achieve Life Sciences is a late-stage specialty pharmaceutical company focused on developing and commercializing cytisinicline for the treatment of nicotine dependence in smoking and vaping cessation.
+HQ: Bothell, WA (IR site) | Founded: 2015 (LinkedIn) | Employees: 11-50 (LinkedIn; <25 ZoomInfo)
+Stock: $4.27 | MCap: $227309129 | P/E: -3.26 | 52wk: $1.84-$6.03
+Approved Products: None (cytisinicline NDA pending FDA review with PDUFA June 20, 2026) FDA acceptance press release
+  Pipeline: Cytisinicline | Phase 3 (NDA under FDA review) | Nicotine dependence / Smoking cessation | FDA: June 20, 2026 (PDUFA date) | Sentiment: Positive
+  CEO: Richard Stewart | LinkedIn: https://www.linkedin.com/in/rick-stewart-9597654
+  CFO: Mark Oki | LinkedIn: https://www.linkedin.com/in/mark-oki-b0b2974
+  CSO: Mark Rubinstein | LinkedIn: 
+  OTHER: Jaime Xinos | LinkedIn: 
+
+## Nuvalent (NUVL)
+Summary: Nuvalent, Inc. (NASDAQ: NUVL) is a clinical-stage biopharmaceutical company focused on creating precisely targeted therapies for patients with cancer, particularly kinase targets in NSCLC, to overcome
+HQ: Cambridge, Massachusetts Nuvalent.com ZoomInfo | Founded: 2017 ZoomInfo LinkedIn | Employees: ~228 Bloomberg
+Stock: $99.41 | MCap: $7274992797 | P/E: -17.14 | 52wk: $55.53-$113.02
+Approved Products: None (clinical-stage company with no marketed products) Pipeline Investor Site
+  Pipeline: Zidesamtinib | Phase 1/2 registrational (NDA under FDA review) | TKI-pretreated advanced ROS1-positive non-small cell lung cancer (NSCLC) | FDA: September 18, 2026 (PDUFA date; Breakthrough Therapy Designation) | Sentiment: Positive
+  CEO: James Porter, PhD Nuvalent Team | LinkedIn: https://www.linkedin.com/in/james-porter-301b6112
+  CFO: Alex Balcom, MBA, CPA Nuvalent Team | LinkedIn: https://www.linkedin.com/in/alex-balcom-mba-cpa-312b5720
+  CSO: Henry Pelish, PhD Nuvalent Team | LinkedIn: https://www.linkedin.com/in/henry-pelish
+  OTHER: Christopher Turner, MD | LinkedIn: https://www.linkedin.com/in/christopher-d-turner-918a2a8a
+
+## Viridian Therapeutics (VRDN)
+Summary: Viridian Therapeutics is a biopharmaceutical company focused on discovering, developing, and commercializing best-in-class medicines for serious and rare diseases, particularly autoimmune conditions l
+HQ: Waltham, Massachusetts Viridian Therapeutics LinkedIn | Founded: 2007 Viridian Therapeutics LinkedIn | Employees: 51-200 Viridian Therapeutics LinkedIn; ~143 Bloomberg
+Stock: $28.34 | MCap: $2404623522 | P/E: -8.69 | 52wk: $9.9-$34.29
+Approved Products: None - No approved products; veligrotug (VRDN-001) BLA under FDA Priority Review (PDUFA June 30, 2026) for TED. Viridian Investors
+  Pipeline: Veligrotug | Phase 3 (BLA under FDA review) | Thyroid Eye Disease (TED) | FDA: June 30, 2026 (PDUFA date; BLA accepted) | Sentiment: Positive
+  CEO: Steve Mahoney | LinkedIn: https://www.linkedin.com/in/steve-mahoney-92216b13
+  CFO: Seth Harmon | LinkedIn: https://www.linkedin.com/in/seth-harmon-0a12b34
+  CSO: Radhika Tripuraneni | LinkedIn: https://www.linkedin.com/in/radhikatripmd
+  OTHER: Tony Casciano | LinkedIn: 
+
+## Denali Therapeutics (DNLI)
+Summary: Denali Therapeutics is a biotechnology company developing biotherapeutics engineered to cross the blood-brain barrier for neurodegenerative diseases, lysosomal storage disorders, and other serious dis
+HQ: South San Francisco, California Denali Therapeutics LinkedIn | Founded: 2015 | Employees: 503 as of Dec 31, 2025 Stock Analysis
+Stock: $19.69 | MCap: $3074758187 | P/E: -6.74 | 52wk: $10.57-$23.77
+Approved Products: None
+  Pipeline: Baxdrostat combination (Bax-CKD) / Tividenofusp alfa | Phase 2/3 (BLA accepted; separate from baxdrostat above) | Hunter syndrome (Mucopolysaccharidosis Type II, MPS II) — enzyme replacement del | FDA: April 5, 2026 (PDUFA date; BLA accepted; Fast Track + RMAT + Orphan Drug + RPD) | Sentiment: Positive
+  CEO: Ryan Watts, Ph.D. | LinkedIn: https://www.linkedin.com/in/ryan-watts-0385b9b0
+  CFO: Alexander Schuth, M.D. | LinkedIn: https://www.linkedin.com/in/alexander-schuth-9800141
+  CSO: Peter Chin, M.D. | LinkedIn: https://www.linkedin.com/in/peter-chin
+  OTHER: Joe Lewcock, Ph.D. | LinkedIn: https://www.linkedin.com/in/joe-lewcock-2858154
+
+## Travere Therapeutics (TVTX)
+Summary: Travere Therapeutics is a biopharmaceutical company focused on identifying, developing, and delivering life-changing therapies for people living with rare kidney and metabolic diseases.StockAnalysis T
+HQ: San Diego, CaliforniaForbes | Founded: 2008Forbes | Employees: Approximately 385-450Forbes Travere.com
+Stock: $27.24 | MCap: $2512659822 | P/E: -47.79 | 52wk: $12.91-$42.13
+Approved Products: "FILSPARI (sparsentan) (2023/2024) - IgA Nephropathy"; "THIOLA/THIOLA EC (tiopronin) (1970s/reformulated) - Cystinuria"FDA Travere.com
+  Pipeline: Sparsentan (Filspari) — FSGS expansion | Phase 3 (sNDA under review for full approval and FSGS indication) | Focal Segmental Glomerulosclerosis (FSGS); already approved for IgAN under accel | FDA: April 13, 2026 (PDUFA date for FSGS sNDA) | Sentiment: Positive
+  CEO: Eric Dube, Ph.D.Travere.com | LinkedIn: https://www.linkedin.com/in/eric-dube-phd
+  CFO: Christopher Cline, CFATravere.com | LinkedIn: https://www.linkedin.com/in/chrisclinecfa
+  CSO: William Rote, Ph.D.StockAnalysis | LinkedIn: https://www.linkedin.com/in/williamrote
+  OTHER: Jula Inrig, M.D.Travere.com | LinkedIn: https://www.linkedin.com/in/jula-inrig-41a58021
+
+## Mineralys Therapeutics (MLYS)
+Summary: Mineralys Therapeutics is a clinical-stage biopharmaceutical company focused on developing medicines targeting hypertension, CKD, OSA, and other diseases driven by dysregulated aldosterone. Its lead c
+HQ: Radnor, PA Mineralys Therapeutics website | Founded: 2019 SEC filing | Employees: ~50-75 Yahoo Finance, Great Place to Work
+Stock: $26.59 | MCap: $1762806838 | P/E: -9.14 | 52wk: $10.44-$47.65
+Approved Products: None (clinical-stage company, no marketed products)
+  Pipeline: Lorundrostat | Phase 3 (NDA filed; FDA review anticipated 2026) | Uncontrolled hypertension (uHTN) and treatment-resistant hypertension (rHTN) | FDA: 2026 (NDA filed late 2025; FDA review timeline 2026) | Sentiment: Positive
+  CEO: Jon Congleton | LinkedIn: https://www.linkedin.com/in/joncongleton
+  CFO: Adam Levy | LinkedIn: 
+  CSO: David Rodman | LinkedIn: https://www.linkedin.com/in/david-rodman-190a9a15
+  OTHER: Eric Warren | LinkedIn: 
+
+## BeOne Medicines BeiGene (BGNE)
+Summary: BeOne Medicines (formerly BeiGene) is a global oncology company focused on discovering, developing, and delivering innovative cancer treatments, particularly in hematology and solid tumors. Founded in
+HQ: Basel, Switzerland (legal HQ post-2025 redomicile); operational HQs in Cambridge, MA, USA and Beijing, China | Founded: 2010 | Employees: ~12,000
+Stock: $184.71 | MCap: $20209121100 | P/E: -22.55 | 52wk: $126.97-$248.16
+Approved Products: BRUKINSA (zanubrutinib) (2019) - Mantle cell lymphoma, CLL/SLL, Waldenström’s macroglobulinemia, follicular lymphoma; TEVIMBRA (tislelizumab) (2024) - Gastric/GEJ adenocarcinoma, esophageal squamous c
+  Pipeline: Sonrotoclax (BGB-11417) | Phase 1/2 → NDA under FDA review (Priority Review) | Relapsed/Refractory Mantle Cell Lymphoma (post-BTK inhibitor); also Phase 3 in C | FDA: ~April–May 2026 (Priority Review; NDA accepted Nov 2025) | Sentiment: Mixed
+  CEO: John V. Oyler | LinkedIn: https://www.linkedin.com/in/john-v-oyler-a811986
+  CFO: Aaron Rosenberg | LinkedIn: https://www.linkedin.com/in/arosenberg22
+  CSO: Lai Wang | LinkedIn: 
+  OTHER: Xiaodong Wang | LinkedIn: 
+  BM Connection: Tjarda Kasteel (Associate Principal (AIM, a Blue Matter company)) - Former employee at BeiGene (Senior Director, Country Manager Netherlands, 2021-2
+
+## Regeneron Pharmaceuticals (REGN)
+Summary: Regeneron Pharmaceuticals is a leading biotechnology company that discovers, invents, develops, manufactures, and commercializes medicines for serious diseases including eye diseases, allergic and inf
+HQ: Tarrytown, New YorkForbes | Founded: 1988Wikipedia | Employees: ~15,410 (2025)Wikipedia
+Stock: $759.86 | MCap: $78951475228 | P/E: 18.31 | 52wk: $476.49-$821.11
+Approved Products: EYLEA (2011) - Wet AMD, DME, DR, RVO; Dupixent (2017) - Atopic dermatitis, asthma, CRSwNP; Libtayo (2018) - Advanced CSCC, NSCLC; Praluent (2015) - Hypercholesterolemia; Kevzara (2017) - Rheumatoid ar
+  Pipeline: DB-OTO | Phase 1/2 (BLA filing planned 2026) | Congenital hearing loss due to OTOF gene mutations (otoferlin deficiency) | FDA: H1 2026 (BLA submission expected; CNPV + Fast Track + Orphan Drug + RMAT + RPD designations) | Sentiment: Positive
+  CEO: Leonard S. SchleiferRegeneron.com | LinkedIn: https://www.linkedin.com/in/leonard-schleifer-regeneron
+  CFO: Christopher FenimoreRegeneron.com | LinkedIn: https://www.linkedin.com/in/christopher-fenimore-a0ab1b8
+  CSO: George D. Yancopoulos | LinkedIn: https://www.linkedin.com/in/george-yancopoulos-452a4141
+  OTHER: Marion McCourt | LinkedIn: https://www.linkedin.com/in/marion-mccourt-280b28b3
+  BM Connection: Pavan Eckhart (Former Blue Matter network (now at Ionis)) - Former Regeneron Field Access Specialist; Blue Matter network contact
+
+## AstraZeneca (AZN)
+Summary: AstraZeneca is a British-Swedish multinational biopharmaceutical company specializing in oncology, rare diseases, cardiovascular, renal & metabolism, respiratory & immunology. Wikipedia
+HQ: Cambridge Biomedical Campus, Cambridge, UK Wikipedia | Founded: 1999 Wikipedia | Employees: ~89,900 Forbes, ZoomInfo
+Stock: $194.22 | MCap: $301096066614 | P/E: 29.65 | 52wk: $122.48-$212.71
+Approved Products: Tagrisso (2015) - EGFR+ NSCLC; Farxiga (2014) - T2D/HF/CKD; Imfinzi (2017) - Lung/bladder cancer; Enhertu (2019) - HER2+ breast cancer; Calquence (2017) - CLL PatSnap
+  Pipeline: Baxdrostat | Phase 3 (NDA under FDA review) | Uncontrolled hypertension (uHTN) and treatment-resistant hypertension (rHTN) | FDA: Q2 2026 (Priority Review; PDUFA expected April–June 2026) | Sentiment: Positive
+  Pipeline: Camizestrant (AZD9833) | Phase 3 (NDA under FDA review; ODAC April 30, 2026) | HR+/HER2- locally advanced or metastatic breast cancer with emergent ESR1 mutati | FDA: Mid-2026 (NDA under review; ODAC meeting set April 30, 2026) | Sentiment: Mixed
+  CEO: Pascal Soriot | LinkedIn: 
+  CFO: Aradhana Sarin | LinkedIn: https://www.linkedin.com/in/aradhanasarin
+  CSO: Susan Galbraith | LinkedIn: https://www.linkedin.com/in/susan-galbraith-584a195
+  OTHER: Pam Cheng | LinkedIn: 
+  BM Connection: Ellanor Whiteley (Associate Principal) - Former employee at AstraZeneca (Research Scientist, 2015-2019; PhD funded by Ast
+  BM Connection: Ida Viken (Senior Consultant) - Master thesis research at AstraZeneca (BioPharmaceutical R&D, Gothenburg)
+  BM Connection: James Eddy (Former Blue Matter network contact (at AstraZeneca)) - Current Director at AstraZeneca (Oncology R&D Strategy); appeared in BM professi
+
+## Vera Therapeutics (VERA)
+Summary: Vera Therapeutics is a clinical-stage biotechnology company focused on developing transformative treatments for patients with serious immunological diseases, particularly kidney-related conditions lik
+HQ: Brisbane, California Yahoo Finance | Founded: 2016 Yahoo Finance | Employees: ~224 as of September 2025 Stock Analysis
+Stock: $39.07 | MCap: $2787865832 | P/E: -8.38 | 52wk: $18.53-$56.05
+Approved Products: None (clinical-stage company with no approved products) Vera Therapeutics Pipeline
+  Pipeline: Atacicept | Phase 3 (BLA under FDA review) | IgA Nephropathy (IgAN) | FDA: July 7, 2026 (PDUFA date; Priority Review + Breakthrough Therapy Designation) | Sentiment: Positive
+  CEO: Marshall Fordyce, M.D. Yahoo Finance | LinkedIn: https://www.linkedin.com/in/marshall-fordyce-m-d-05751846
+  CFO: Sean P. Grant Yahoo Finance | LinkedIn: https://www.linkedin.com/in/grantsean
+  CSO: Robert M. Brenner, M.D. | LinkedIn: https://www.linkedin.com/in/robert-brenner-aa58b55
+  OTHER: Matt Skelton | LinkedIn: 
+
+## Summit Therapeutics (SMMT)
+Summary: Summit Therapeutics Inc. is a biopharmaceutical oncology company focused on the discovery, development, and commercialization of patient-friendly therapies to improve quality of life and address serio
+HQ: Miami, Florida Summit Therapeutics press release, BioCentury | Founded: 2003 BioCentury, US News | Employees: Approximately 265 BioCentury; other estimates 105-159
+Stock: $15.11 | MCap: $11248533730 | P/E: -10.49 | 52wk: $13.83-$36.91
+Approved Products: None in Summit's territories (US, Canada, Europe, etc.). Ivonescimab approved in China (2024) by NMPA. Summit Pipeline
+  Pipeline: Ivonescimab | Phase 3 (BLA submitted; FDA accepted for review) | EGFR-mutated advanced nonsquamous NSCLC after TKI progression (BLA); also Phase  | FDA: November 14, 2026 (PDUFA date based on HARMONi trial; Q4 2026 per CheckRare) | Sentiment: Positive
+  CEO: Robert W. Duggan (Co-CEO) | LinkedIn: https://www.linkedin.com/in/robertwduggan
+  CFO: Manmeet Soni | LinkedIn: https://www.linkedin.com/in/manmeetsoni
+  CSO: Allen S. Yang | LinkedIn: 
+  OTHER: Dr. Maky Zanganeh | LinkedIn: https://www.linkedin.com/in/dr-maky-zanganeh-b9b9548
+
+## Orca Bio (ORCA)
+Summary: Orca Bio is a late-stage biotechnology company developing high-precision allogeneic cell therapies to treat blood cancers like AML, ALL, and MDS, and autoimmune diseases by replacing patients' disease
+HQ: Menlo Park, CA Orca Bio | Founded: 2016 Forge Global | Employees: Approximately 289 LeadIQ
+Stock: $0 | MCap: $0 | P/E: N/A | 52wk: $0-$0
+Approved Products: None (all investigational) Orca Bio Pipeline
+  Pipeline: Orca-T (allogeneic T-cell immunotherapy) | Phase 3 (BLA under FDA review) | Hematological malignancies undergoing allo-HSCT: Acute Myeloid Leukemia (AML), A | FDA: April 6, 2026 (PDUFA date; Orphan Drug + Priority Review + RMAT designation) | Sentiment: Positive
+  CEO: Nathaniel (Nate) Fernhoff Orca Bio | LinkedIn: https://www.linkedin.com/in/nathaniel-fernhoff-7552b416
+  CFO: Josh Murray Orca Bio | LinkedIn: https://www.linkedin.com/in/josh-murray-737a8513
+  CSO: James Scott McClellan | LinkedIn: https://www.linkedin.com/in/james-scott-mcclellan-ab738a91
+  OTHER: Jeroen Bekaert | LinkedIn: https://www.linkedin.com/in/jeroenbekaert
+
+## Takeda Pharmaceutical (TAK)
+Summary: Takeda Pharmaceutical Company Limited is a global biopharmaceutical leader focused on discovering and delivering life-transforming treatments in areas including gastrointestinal/inflammation, oncology
+HQ: Tokyo, Japan (Takeda) | Founded: 1781 (Takeda) | Employees: ~49,000 consolidated (Takeda)
+Stock: $17.88 | MCap: $56486367228 | P/E: 77.74 | 52wk: $12.99-$18.82
+Approved Products: Entyvio (vedolizumab) (2014) - Ulcerative colitis/Crohn's disease; Vyvanse (lisdexamfetamine) (2007) - ADHD; Takhzyro (lanadelumab) (2018) - Hereditary angioedema; Adcetris (brentuximab vedotin) (2011
+  Pipeline: Oveporexton (TAK-861) | Phase 3 (NDA under FDA review; Priority Review) | Narcolepsy Type 1 (NT1) — excessive daytime sleepiness and cataplexy | FDA: Q3 2026 (PDUFA goal date; Priority Review + Breakthrough Therapy Designation) | Sentiment: Positive
+  Pipeline: Rusfertide | Phase 3 (NDA under FDA review; Priority Review) | Polycythemia Vera (PV) — uncontrolled hematocrit despite phlebotomy and/or stand | FDA: Q3 2026 (PDUFA goal date; Priority Review + Breakthrough Therapy + Orphan Drug) | Sentiment: Positive
+  CEO: Christophe Weber | LinkedIn: https://www.linkedin.com/in/christophe-weber-takeda
+  CFO: Milano Furuta | LinkedIn: https://www.linkedin.com/in/milano-furuta-8b7b953
+  CSO: Andy Plump | LinkedIn: https://www.linkedin.com/in/andy-plump
+  OTHER: Julie Kim | LinkedIn: 
+
+## Bristol Myers Squibb (BMY)
+Summary: Bristol Myers Squibb is a global biopharmaceutical company that discovers, develops, and delivers innovative medicines to help patients prevail over serious diseases such as cancer, immunology, and ca
+HQ: Princeton, New Jersey, USA BMS Contact | Founded: 1989 (merger; heritage from 1858 and 1887) BMS History | Employees: ~34,000 Bullfincher BMS About
+Stock: $60.29 | MCap: $122778999674 | P/E: 17.53 | 52wk: $42.52-$63.33
+Approved Products: "Eliquis (2012) - Stroke/systemic embolism prevention in nonvalvular atrial fibrillation; Opdivo (2014) - Various cancers; Revlimid (2006) - Multiple myeloma; Orencia (2005) - Rheumatoid arthritis; Re
+  Pipeline: Iberdomide | Phase 3 (NDA under FDA review; Priority Review + Breakthrough Therapy) | Relapsed/Refractory Multiple Myeloma (in combination with daratumumab + dexameth | FDA: August 17, 2026 (PDUFA date; Breakthrough Therapy + Priority Review) | Sentiment: Positive
+  CEO: Christopher Boerner, PhD | LinkedIn: 
+  CFO: David Elkins | LinkedIn: https://www.linkedin.com/in/david-elkins-b8981377
+  CSO: Robert Plenge, MD, PhD | LinkedIn: http://www.linkedin.com/in/robert-plenge-86560535
+  OTHER: Cristian Massacesi, MD | LinkedIn: https://www.linkedin.com/in/cristian-massacesi
+  BM Connection: Pankaj Oza (Managing Partner) - Former employee at GSK (UK Commercial) and Bristol-Myers Squibb (UK/European Mar
+  BM Connection: Milena Sullivan (Partner) - Former employee at Bristol-Myers Squibb (Associate Director, US Federal Policy, 
+  BM Connection: Kristin Talsky (Associate Principal) - Former intern at Genentech (Portfolio Strategy); Blue Matter since 2015; BMS men
+  BM Connection: Matthew Thaxter (Senior Consultant) - BMS appeared in published research; broad pharma coverage from GlobalData backgr
+
+## Eli Lilly (LLY)
+Summary: Eli Lilly and Company (Lilly) is an American multinational pharmaceutical company focused on developing innovative medicines in areas like diabetes, obesity, oncology, immunology, and neuroscience. He
+HQ: Indianapolis, Indiana Lilly.com Wikipedia | Founded: 1876 Wikipedia | Employees: ~47,000 (2024) Lilly LinkedIn Trading Economics
+Stock: $990.33 | MCap: $934234737810 | P/E: 43.10 | 52wk: $623.78-$1133.95
+Approved Products: Mounjaro (tirzepatide) (2022) - Type 2 diabetes; Zepbound (tirzepatide) (2023) - Obesity/weight loss/sleep apnea; Verzenio (abemaciclib) (2017) - Breast cancer; Trulicity (dulaglutide) (2014) - Type 2
+  Pipeline: Orforglipron | Phase 3 (NDA under FDA review) | Obesity / Overweight; Type 2 Diabetes (separate NDA planned 2026) | FDA: April 10, 2026 (PDUFA date; Commissioner's National Priority Voucher program) | Sentiment: Positive
+  CEO: David A. Ricks | LinkedIn: https://www.linkedin.com/in/davearicks
+  CFO: Lucas Montarce | LinkedIn: https://www.linkedin.com/in/lucas-montarce
+  CSO: Daniel Skovronsky | LinkedIn: https://www.linkedin.com/in/danielskovronsky
+  OTHER: Jacob Van Naarden | LinkedIn: 
+  BM Connection: D Erica Pascual (Associate Principal) - Former client relationship manager: clients at Hall & Partners included Eli Lill
+  BM Connection: Shaleen Multani (Consultant) - Former employee at Eli Lilly (Portfolio Project Manager and Senior Associate Man
+  BM Connection: Shan Ahmad (Senior Consultant) - Eli Lilly graduate consultant (thesis project, 2017-2018); Amgen MBA internship
+
+## Johnson & Johnson (JNJ)
+Summary: Johnson & Johnson is an American multinational corporation focused on pharmaceuticals (Innovative Medicine) and medical technologies (MedTech), developing treatments for complex diseases and innovativ
+HQ: New Brunswick, New JerseyJ&J.com | Founded: 1886J&J Timeline | Employees: ~138,000Trading Economics
+Stock: $240.4 | MCap: $579339704214 | P/E: 21.80 | 52wk: $141.5-$251.71
+Approved Products: Darzalex (2015) - Multiple myeloma; Stelara (2009) - Plaque psoriasis, psoriatic arthritis, Crohn's disease, ulcerative colitis; Tremfya (2017) - Plaque psoriasis, psoriatic arthritis; Erleada (2018) 
+  Pipeline: Icotrokinra (JNJ-2113 / Icotyde) | Phase 3 (NDA submitted July 2025) | Moderate-to-severe plaque psoriasis (adults and adolescents ≥12 years); Phase 2b | FDA: 2026 (NDA submitted July 21, 2025; ~12-month review expected mid-2026) | Sentiment: Positive
+  CEO: Joaquin DuatoJ&J Leadership | LinkedIn: https://www.linkedin.com/in/joaquinduato
+  CFO: Joseph J. WolkJ&J.com | LinkedIn: https://www.linkedin.com/in/josephwolk
+  CSO: John C. Reed | LinkedIn: https://www.linkedin.com/in/johncreedjnj
+  OTHER: Vanessa Broadhurst | LinkedIn: https://www.linkedin.com/in/vanessabroadhurst
+  BM Connection: Minsu Kim (Senior Consultant) - Former intern at Novo Nordisk (Market Access Strategic Execution, 2019); J&J men
+
+## Arvinas (ARVN)
+Summary: Arvinas is a clinical-stage biotechnology company pioneering targeted protein degradation therapeutics using its proprietary PROTAC platform to degrade disease-causing proteins, focusing on oncology a
+HQ: New Haven, Connecticut Arvinas LinkedIn, ZoomInfo | Founded: 2013 Arvinas LinkedIn, ZoomInfo | Employees: 201-500 Arvinas LinkedIn, ~430 ZoomInfo
+Stock: $13.6 | MCap: $873450426 | P/E: -11.93 | 52wk: $5.9-$18.45
+Approved Products: None - Arvinas has no currently approved or marketed products. MarketBeat, Pipeline
+  Pipeline: Vepdegestrant (ARV-471) | Phase 3 (NDA under FDA review; submitted H2 2025) | ESR1-mutant, ER+/HER2- advanced/metastatic breast cancer (post-CDK4/6 inhibitor  | FDA: ~June 5, 2026 (PDUFA date per Prime Therapeutics; NDA submitted 2025) | Sentiment: Mixed
+  CEO: Randy Teel, Ph.D. Arvinas | LinkedIn: https://www.linkedin.com/in/randyteel
+  CFO: Andrew Saik Arvinas | LinkedIn: https://www.linkedin.com/in/andrewsaik
+  CSO: Noah Berkowitz | LinkedIn: https://www.linkedin.com/in/noah-berkowitz-15b19212
+  OTHER: John Houston, Ph.D. | LinkedIn: 
+
+=== BLUE MATTER CONNECTIONS SUMMARY ===
+BM: Milena Sullivan (Partner) -> Companies: NVO, BMY
+BM: D Erica Pascual (Associate Principal) -> Companies: NVO, LLY
+BM: Minsu Kim (Senior Consultant) -> Companies: NVO, JNJ
+BM: Alejandro Zuniga (Former Manager at Blue Matter (now at Novo Nordisk)) -> Companies: NVO, GILD
+BM: Nikhil Bhat (Partner) -> Companies: GILD
+BM: Abhishek Khatri (Principal) -> Companies: GILD
+BM: Emily Hua (President and Co-Founder) -> Companies: GSK
+BM: Pankaj Oza (Managing Partner) -> Companies: GSK, BMY
+BM: Kathryn Acheson (Manager) -> Companies: GSK
+BM: James Eddy (Former Blue Matter network contact (at AstraZeneca)) -> Companies: GSK, AZN
+BM: Tjarda Kasteel (Associate Principal (AIM, a Blue Matter company)) -> Companies: BGNE
+BM: Pavan Eckhart (Former Blue Matter network (now at Ionis)) -> Companies: REGN
+BM: Ellanor Whiteley (Associate Principal) -> Companies: AZN
+BM: Ida Viken (Senior Consultant) -> Companies: AZN
+BM: Kristin Talsky (Associate Principal) -> Companies: BMY
+BM: Matthew Thaxter (Senior Consultant) -> Companies: BMY
+BM: Shaleen Multani (Consultant) -> Companies: LLY
+BM: Shan Ahmad (Senior Consultant) -> Companies: LLY
+
+## Data Updates (March 2026)
+- FDA Approvals now cover 2020–2025 (~100 novel drugs)
+- Pipeline Tracker expanded to include 2027-2028 drugs (35+ additional entries)
+- Stakeholder database expanded with VP/Director-level commercial, market access, and finance leaders
+- New stakeholder categories: Pharma Commercial, Pharma Market Access, Pharma Finance
+- ClinicalTrials.gov API integration available at /api/clinicaltrials for live pipeline queries
+- Pipeline view now supports year-based filtering (2026, 2027, 2028)
